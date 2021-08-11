@@ -1,7 +1,9 @@
 # rasam-dataset
 An Open Dataset for the Recognition and Analysis of Scripts in Arabic Maghrebi
 
-## Letter Shapes
+## Paleographical details (dataset content)
+
+### Letter shapes
 
 <table style="text-align: center">
 <thead>
@@ -871,6 +873,96 @@ An Open Dataset for the Recognition and Analysis of Scripts in Arabic Maghrebi
 <p><img src="docs/imgs/image334.jpg" /></p>
 <p><span dir="rtl">قسنطينة</span></p></td>
 <td colspan='4'><span dir="rtl">ة</span></td>
+</tr>
+</tbody>
+</table>
+
+### Some tied letters/ligatures and other
+
+<table style="text-align: center">
+<thead>
+<tr class="header">
+<td>MS.ARA.609</td>
+<td>MS.ARA.1977</td>
+<td>MS.ARA.417</td>
+<td></td>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><img src="docs/imgs/image335.jpg" /></p>
+<p><span dir="rtl">الاصغر</span></p>
+<p><img src="docs/imgs/image336.jpg" /></p>
+<p><span dir="rtl">الاعظم</span></p></td>
+<td><p><img src="docs/imgs/image337.jpg" /></p>
+<p><span dir="rtl">الاساس</span></p></td>
+<td><p><img src="docs/imgs/image338.jpg" /></p>
+<p><span dir="rtl">الأشجار</span></p>
+<p><img src="docs/imgs/image339.jpg" /></p>
+<p><span dir="rtl">الارض</span></p></td>
+<td><span dir="rtl">الا</span></td>
+</tr>
+<tr class="even">
+<td><p><img src="docs/imgs/image340.jpg" /></p>
+<p><img src="docs/imgs/image341.jpg" /></p></td>
+<td><p><img src="docs/imgs/image342.jpg" /></p>
+<p><img src="docs/imgs/image343.jpg" /></p>
+</td>
+<td><img src="docs/imgs/image344.jpg" /></td>
+<td><span dir="rtl">على</span></td>
+</tr>
+<tr class="odd">
+<td><img src="docs/imgs/image345.jpg" /></td>
+<td><img src="docs/imgs/image346.jpg" /></td>
+<td><img src="docs/imgs/image347.jpg" /></td>
+<td><span dir="rtl">ثم</span></td>
+</tr>
+<tr class="even">
+<td><p><img src="docs/imgs/image348.jpg" /></p>
+<p><img src="docs/imgs/image349.jpg" /></p>
+<p><img src="docs/imgs/image350.jpg" /></p></td>
+<td><p><img src="docs/imgs/image351.jpg" /></p>
+<p><img src="docs/imgs/image352.jpg" /></p></td>
+<td><p><img src="docs/imgs/image353.jpg" /></p>
+<p><img src="docs/imgs/image354.jpg" /></p></td>
+<td><span dir="rtl">في</span></td>
+</tr>
+<tr class="odd">
+<td><p><img src="docs/imgs/image355.jpg" /> <img src="docs/imgs/image356.jpg" /></p>
+<p><span dir="rtl">الذي</span> / <span dir="rtl">الذي</span></p>
+<p><img src="docs/imgs/image357.jpg" /> <img src="docs/imgs/image358.jpg" /></p>
+<p><span dir="rtl">التي</span> / <span dir="rtl">التي</span></p>
+</td>
+<td><p><img src="docs/imgs/image359.jpg" /> <img src="docs/imgs/image360.jpg" /></p>
+<p><span dir="rtl">بالذي</span> / <span dir="rtl">الذي</span></p>
+<p><img src="docs/imgs/image361.jpg" /></p>
+<p><span dir="rtl">التي</span></p></td>
+<td><p><img src="docs/imgs/image362.jpg" /></p>
+<p><span dir="rtl">الذي</span></p>
+<p><img src="docs/imgs/image363.jpg" /></p>
+<p><span dir="rtl">التي</span></p></td>
+<td><p><span dir="rtl">الذي</span></p>
+<p><span dir="rtl">التي</span></p></td>
+</tr>
+<tr class="even">
+<td><p><img src="docs/imgs/image364.jpg" /> <img src="docs/imgs/image365.jpg" /></p>
+<p><span dir="rtl">هاذه</span> / <span dir="rtl">هذه</span></p>
+<p><img src="docs/imgs/image366.jpg" /> </p>
+<p><span dir="rtl">هذا</span></p></td>
+<td></td>
+<td><p><img src="docs/imgs/image367.jpg" /></p>
+<p><span dir="rtl">هاذا</span></p></td>
+<td><span dir="rtl">هذا / هذه</span></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><img src="docs/imgs/image368.jpg" /></p>
+<p><span dir="rtl">غيرى</span></p>
+<p><img src="docs/imgs/image369.jpg" /></p>
+<p><span dir="rtl">بعدى</span></p></td>
+<td></td>
+<td><p><span dir="rtl">زي/ذي/</span></p>
+<p><span dir="rtl">دي/ري</span></p></td>
 </tr>
 </tbody>
 </table>
