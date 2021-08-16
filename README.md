@@ -1,4 +1,4 @@
-# rasam-dataset
+# RASAM dataset
 An Open Dataset for the Recognition and Analysis of Scripts in Arabic Maghrebi
 
 ## How to cite
