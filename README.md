@@ -26,7 +26,10 @@ The Dataset is made up of 300 images, with their related ground truth stored in 
 Images come from three manuscripts selected among the collections of the BULAC: two manuscripts belong to the historical genre (MS.ARA.1977 and MS.AR.417) and the third one has to do with inheritance law (MS.ARA.609). Please refer to the paper for details about the manuscripts and the Arabic Maghrebi scripts. 
 You will find paleographical details in the [contributing.md](contributing.md) file, with tables devoted to paleographical specificities of the considered manuscripts.
 
-<img src="docs/img/rasam-manuscripts.png" style="width: 50%;"/>
+<figure>
+    <img src="docs/imgs/rasam-manuscripts.png"/>
+    <figcaption>MS.ARA.1977 (p.42), MS.ARA.609 (p.124) and MS.ARA.417 (f. 12v)</figcaption>
+</figure>
  
 Three levels of annotation have been considered: text-regions, baselines and texts. Specifications for transcription have been decided collectively (see paper for exhaustive list of specifications). The annotation was carried out with the [Calfa Vision](https://vision.calfa.fr) platform.
 
@@ -71,3 +74,5 @@ This project is licensed under the Apache License 2.0 - see the LICENSE.md file 
 ## Acknowledgments
 
 This work was carried out with the financial support of the French Ministry of Higher Education, Research and Innovation. It is in line with the scienjpgic focus on digital humanities defined by the Research Consortium Middle-East and Muslim Worlds (GIS MOMM). We would also like to thank all the transcribers and people who took part in the hackathon and ensured its successful completion.
+
+<img src="docs/logos/mesri.png" width="15%"/> <img src="docs/logos/gis-momm.png" width="40%"/> <img src="docs/logos/cnrs.png" width="10%"/> <img src="docs/logos/bulac.png" width="20%"/> <img src="docs/logos/calfa.png" width="10%"/>
