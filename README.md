@@ -6,13 +6,23 @@ An Open Dataset for the Recognition and Analysis of Scripts in Arabic Maghrebi
 The paper has been accepted for ICDAR 2021 (ASAR workshop). To cite this work and this dataset, please use the following informations:
 
 ```latex
-@article{2021rasam-dataset,
-  author       = {Vidal-Gorène, Chahan and Lucas, Noëmie and Salah, Clément and Decours-Perez, Aliénor and Dupin, Boris},
-  title        = {{RASAM - A Dataset for the Recognition and Analysis of Scripts in Arabic Maghrebi}},
-  year         = 2021,
-  publisher    = {Springer},
-  note   = {Accepted into ICDAR 2021},
+@InProceedings{10.1007/978-3-030-86198-8_19,
+author="Vidal-Gor{\`e}ne, Chahan
+and Lucas, No{\"e}mie
+and Salah, Cl{\'e}ment
+and Decours-Perez, Ali{\'e}nor
+and Dupin, Boris",
+editor="Barney Smith, Elisa H.
+and Pal, Umapada",
+title="RASAM -- A Dataset for the Recognition and Analysis of Scripts in Arabic Maghrebi",
+booktitle="Document Analysis and Recognition -- ICDAR 2021 Workshops",
+year="2021",
+publisher="Springer International Publishing",
+address="Cham",
+pages="265--281",
+isbn="978-3-030-86198-8"
 }
+
 ```
 
 ## Description
