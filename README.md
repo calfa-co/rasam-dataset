@@ -3,17 +3,12 @@ An Open Dataset for the Recognition and Analysis of Scripts in Arabic Maghrebi
 
 ## How to cite
 
-The paper has been accepted for ICDAR 2021 (ASAR workshop). To cite this work and this dataset, please use the following informations:
+The paper has been presented during the ICDAR 2021 conference (ASAR workshop). To cite this work and this dataset, please use the following informations:
 
 ```latex
-@InProceedings{10.1007/978-3-030-86198-8_19,
-author="Vidal-Gor{\`e}ne, Chahan
-and Lucas, No{\"e}mie
-and Salah, Cl{\'e}ment
-and Decours-Perez, Ali{\'e}nor
-and Dupin, Boris",
-editor="Barney Smith, Elisa H.
-and Pal, Umapada",
+@InProceedings{2021rasam-dataset,
+author="Vidal-Gorène, Chahan and Lucas, Noëmie and Salah, Clément and Decours-Perez, Aliénor and Dupin, Boris",
+editor="Barney Smith, Elisa H. and Pal, Umapada",
 title="RASAM -- A Dataset for the Recognition and Analysis of Scripts in Arabic Maghrebi",
 booktitle="Document Analysis and Recognition -- ICDAR 2021 Workshops",
 year="2021",
@@ -22,7 +17,6 @@ address="Cham",
 pages="265--281",
 isbn="978-3-030-86198-8"
 }
-
 ```
 
 ## Description
@@ -43,9 +37,14 @@ You will find paleographical details in the [contributing.md](contributing.md) f
  
 Three levels of annotation have been considered: text-regions, baselines and texts. Specifications for transcription have been decided collectively (see paper for exhaustive list of specifications). The annotation was carried out with the [Calfa Vision](https://vision.calfa.fr) platform.
 
-## Some figures and outcomes
+## Images
 
-To come
+Images are available through the IIIF server of the BULAC Library. For the list of images ID, see the [list-images.tsv](list-images.tsv) file.
+To request an image, please use the following URL template:
+
+```
+https://bina.bulac.fr/iiif-img/{image_ID}/{region}/{size}/{rotation}/{quality}.{format}
+```
 
 ## Contributing and Specifications for annotation
 
