@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2021-07-01T08:31:44+00:00</Created>
+    <Comments>RASAM Dataset (ICDAR 2021). Transcription carried out as part of the IA and Khatt Maghrebi hackathon (BULAC, GIS MOMM CNRS, Calfa). Description of the specifications available in the paper and on Github. Proofreading carried out collaboratively.</Comments>
+  </Metadata>
+  <Page imageFilename="BULAC_MS_ARA_417_0010.jpg" imageHeight="4796" imageWidth="3819">
+    <TextRegion id="r_a-1" custom="structure {type:text;}">
+      <Coords points="1383,564 3447,536 3435,3644 1367,3640 1383,564"/>
+      <TextLine id="l_b-1">
+        <Coords points=""/>
+        <Baseline points="3415,788 1419,792"/>
+        <TextEquiv>
+          <Unicode>الجيلاني الخروب القلعى وكان قد تخذ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-2">
+        <Coords points=""/>
+        <Baseline points="3415,1008 1439,1016"/>
+        <TextEquiv>
+          <Unicode>مجلسا للخلوة فلا يخرج منه للحكم</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-3">
+        <Coords points=""/>
+        <Baseline points="3415,1248 1379,1272"/>
+        <TextEquiv>
+          <Unicode>الابعد ايام واهل الشكاية ينتضرونه</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-4">
+        <Coords points=""/>
+        <Baseline points="3427,1488 1399,1504"/>
+        <TextEquiv>
+          <Unicode>الى ان صرف امورهم الى ارباب دولته</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-5">
+        <Coords points=""/>
+        <Baseline points="3427,1720 1415,1736"/>
+        <TextEquiv>
+          <Unicode>فلحقهم منهم نفع كثير ومال</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-6">
+        <Coords points=""/>
+        <Baseline points="3439,1964 1383,1972"/>
+        <TextEquiv>
+          <Unicode>غزير هذا وهو لا يلتفت الى مايشغله</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-7">
+        <Coords points=""/>
+        <Baseline points="3427,2196 1391,2216"/>
+        <TextEquiv>
+          <Unicode>عن اللهو وقد اتاه يوما احد قومه</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-8">
+        <Coords points=""/>
+        <Baseline points="3423,2456 1415,2468"/>
+        <TextEquiv>
+          <Unicode>ليحاسبه على ما تحت يده من</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-9">
+        <Coords points=""/>
+        <Baseline points="3447,2708 1399,2708"/>
+        <TextEquiv>
+          <Unicode>شواغل المخزن فاطرده وقال له</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-10">
+        <Coords points=""/>
+        <Baseline points="3423,2924 1387,2948"/>
+        <TextEquiv>
+          <Unicode>ان الحساب لا يكون الا بين يدي</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-11">
+        <Coords points=""/>
+        <Baseline points="3411,3160 1411,3172"/>
+        <TextEquiv>
+          <Unicode>الله تعالى ارجع على سبلك فانى غير</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-12">
+        <Coords points=""/>
+        <Baseline points="3415,3396 1407,3420"/>
+        <TextEquiv>
+          <Unicode>ملتفت الى ما في يدك او يد</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>الجيلاني الخروب القلعى وكان قد تخذ
+مجلسا للخلوة فلا يخرج منه للحكم
+الابعد ايام واهل الشكاية ينتضرونه
+الى ان صرف امورهم الى ارباب دولته
+فلحقهم منهم نفع كثير ومال
+غزير هذا وهو لا يلتفت الى مايشغله
+عن اللهو وقد اتاه يوما احد قومه
+ليحاسبه على ما تحت يده من
+شواغل المخزن فاطرده وقال له
+ان الحساب لا يكون الا بين يدي
+الله تعالى ارجع على سبلك فانى غير
+ملتفت الى ما في يدك او يد
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>
