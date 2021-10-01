@@ -19,6 +19,8 @@ isbn="978-3-030-86198-8"
 }
 ```
 
+Link to [the paper](https://link.springer.com/chapter/10.1007%2F978-3-030-86198-8_19).
+
 ## Description
 
 This repository contains the ground truth of the RASAM dataset, introduced at the 4th workshop on Arabic and derived Script Analysis and Recognition of ICDAR 2021 (ASAR workshop).
