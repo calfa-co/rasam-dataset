@@ -45,7 +45,7 @@ Images are available through the IIIF server of the BULAC Library. For the list 
 To request an image, please use the following URL template:
 
 ```
-https://bina.bulac.fr/iiif-img/{image_ID}/{region}/{size}/{rotation}/{quality}.{format}
+https://bina.bulac.fr/iiif/2/{image_ID}/full/{width,height}/0/default.jpg
 ```
 
 ## Contributing and Specifications for annotation
