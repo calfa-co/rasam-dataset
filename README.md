@@ -3,7 +3,7 @@ An Open Dataset for the Recognition and Analysis of Scripts in Arabic Maghrebi
 
 ## How to cite
 
-The paper has been presented during the ICDAR 2021 conference (ASAR workshop). To cite this work and this dataset, please use the following informations:
+RASAM 1 has been presented during the ICDAR 2021 conference (ASAR workshop). To cite this work and this dataset, please use the following informations:
 
 ```latex
 @InProceedings{2021rasam-dataset,
@@ -21,7 +21,25 @@ isbn="978-3-030-86198-8"
 
 Link to [the paper](https://link.springer.com/chapter/10.1007%2F978-3-030-86198-8_19).
 
-## Description
+RASAM 1 has been extended with RASAM 2, presented during CHR 2024 conference. To cite this work and this dataset, please use the following informations:
+
+```latex
+@inproceedings{2024rasam-dataset,
+  title = {{Enhancing Arabic Maghribi Handwritten Text Recognition with RASAM 2: A Comprehensive Dataset and Benchmarking}},
+  author = {Vidal-Gor{\`e}ne, Chahan and Salah, Cl{\'e}ment and Lucas, No{\"e}mie and Decours-Perez, Ali{\'e}nor and Perrier, Antoine},
+  url = {https://enc.hal.science/hal-04722622},
+  booktile = {{Computational Humanities Research (CHR)}},
+  address = {Aarhus, Denmark},
+  editor = {CEUR-WS},
+  volume = {3834},
+  pages = {200-216},
+  year = {2024},
+  month = Dec,
+}
+```
+
+
+## RASAM 1 description
 
 This repository contains the ground truth of the RASAM dataset, introduced at the 4th workshop on Arabic and derived Script Analysis and Recognition of ICDAR 2021 (ASAR workshop).
 The dataset is the result of the collaborative hackathon "Artificial intelligence and khaṭṭ maghribī" organized by [Research Consortium Middle-East and Muslim Worlds (GIS MOMM)](http://majlis-remomm.fr) and [Calfa](https://calfa.fr), held from January to April 2021 at [BULAC](https://www.bulac.fr) (Paris). It covers a representative part of the handwritten production in Arabic Maghrebi scripts and proposes to provide a reference dataset for the training of HTR models for these under-resourced scripts.
