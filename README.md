@@ -43,11 +43,6 @@ To request an image, please use the following URL template:
 https://bina.bulac.fr/iiif/2/{image_ID}/full/{width,height}/0/default.jpg
 ```
 
-Example with: BULAC_MS_ARA_1977_0195 (RASAM 1)
-```
-https://bina.bulac.fr/iiif/2/295821/full/917,1417/0/default.jpg
-```
-
 # Benchmark
 
 Vidal-Gorène et al. ([see paper (2024)](https://ceur-ws.org/Vol-3834/paper35.pdf)) have shown that HTR model trained with RASAM reaches a very low CER both in in-domain and out-of-domain manuscripts, including Oriental Scripts with other transcription guidelines.
