@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2022-04-27T09:49:29+00:00</Created>
+    <Comments>Extended version of RASAM Dataset. Transcription carried out as part of the second IA and Khatt Maghrebi hackathon (BULAC, DISTAM, GIS MOMM CNRS, Calfa). Description of the specifications available in the paper (ICDAR 2021) and on Github. Proofreading carried out collaboratively.</Comments>
+  </Metadata>
+  <Page imageFilename="BULAC_MS_ARA_23_42100.jpg" imageHeight="3018" imageWidth="2200">
+    <TextRegion id="r_b-B01S1" custom="structure {type:MainZone;}">
+      <Coords points="1932,546 1928,328 528,368 540,574 1932,546"/>
+      <TextLine id="l_b-A03D1">
+        <Coords points="617,422 617,362 655,345 696,345 734,364 757,343 827,343 843,357 873,357 903,341 929,359 994,355 1029,364 1096,338 1145,362 1180,341 1201,345 1217,336 1256,338 1277,352 1345,336 1377,352 1444,334 1470,355 1493,355 1512,336 1577,331 1616,352 1672,343 1684,352 1758,352 1807,341 1816,350 1858,350 1907,325 1909,434 1897,424 1879,434 1876,454 1816,452 1698,436 1684,424 1670,436 1621,438 1600,420 1579,431 1521,413 1463,415 1419,436 1362,462 1354,424 1340,415 1317,434 1252,417 1228,443 1152,420 1108,420 1098,431 1070,422 1043,436 1012,427 982,443 931,429 885,443 859,424 810,424 794,441 764,434 752,443 713,427 645,445 617,434 617,422"/>
+        <Baseline points="618,424 1910,402"/>
+        <TextEquiv>
+          <Unicode>التي و فيهما لغات اثبات الياء ساكنة و مشددة</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-A03D2">
+        <Coords points="555,510 555,464 573,450 652,468 676,466 689,452 727,473 789,459 820,473 866,473 896,445 915,445 931,461 954,445 1047,445 1094,468 1196,445 1231,459 1254,441 1324,461 1359,445 1396,464 1417,464 1440,448 1491,445 1510,464 1554,448 1577,461 1609,436 1649,461 1670,448 1695,461 1728,461 1867,455 1904,431 1907,526 1886,522 1856,540 1830,522 1807,522 1779,524 1756,547 1707,550 1698,540 1668,550 1637,524 1614,524 1554,552 1540,540 1526,547 1500,526 1451,545 1405,533 1393,547 1356,552 1326,529 1298,554 1252,554 1212,531 1152,540 1103,531 1070,552 1024,533 964,533 940,550 903,543 887,557 866,557 843,540 834,550 813,545 796,561 773,561 752,547 722,564 557,564"/>
+        <Baseline points="556,512 1908,494"/>
+        <TextEquiv>
+          <Unicode>مكسورة مطلقا او جارية بوجوه الاعراب  و حذفها</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>التي و فيهما لغات اثبات الياء ساكنة و مشددة
+مكسورة مطلقا او جارية بوجوه الاعراب  و حذفها</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r_b-B01S2" custom="structure {type:MarginTextZone;}">
+      <Coords points="318,754 486,544 118,196 50,266 40,584 318,754"/>
+      <TextLine id="l_b-A03D3">
+        <Coords points="74,250 104,220 130,225 153,257 176,257 218,297 223,315 253,329 267,371 295,385 306,406 327,406 341,438 367,441 390,459 394,482 420,482 425,515 455,540 415,585 392,561 341,552 308,517 304,487 269,485 229,445 220,413 169,387 167,366 151,366 139,329 113,306 67,299 46,280"/>
+        <Baseline points="76,252 428,574"/>
+        <TextEquiv>
+          <Unicode>سقط من هذا المحل</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-A03D4">
+        <Coords points="83,392 111,362 137,369 157,396 185,408 185,424 204,424 243,457 264,499 334,554 353,552 360,568 376,573 376,589 411,605 387,638 374,650 339,640 327,612 262,594 185,531 181,503 169,503 167,482 151,468 120,450 85,450 72,406"/>
+        <Baseline points="84,394 388,640"/>
+        <TextEquiv>
+          <Unicode>قدر ورقة هنا</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-A03D5">
+        <Coords points="67,508 90,480 125,501 132,517 155,515 157,526 181,531 183,559 197,559 202,575 236,575 250,603 274,605 276,626 292,624 350,670 295,733 216,656 134,652 90,615 81,585 48,580 23,559"/>
+        <Baseline points="68,510 316,716"/>
+        <TextEquiv>
+          <Unicode>محله لمن عثر عليه</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>سقط من هذا المحل
+قدر ورقة هنا
+محله لمن عثر عليه</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

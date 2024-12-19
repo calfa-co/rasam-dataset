@@ -1,0 +1,225 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2022-04-27T10:03:27+00:00</Created>
+    <Comments>Extended version of RASAM Dataset. Transcription carried out as part of the second IA and Khatt Maghrebi hackathon (BULAC, DISTAM, GIS MOMM CNRS, Calfa). Description of the specifications available in the paper (ICDAR 2021) and on Github. Proofreading carried out collaboratively.</Comments>
+  </Metadata>
+  <Page imageFilename="BULAC_MS_ARA_1944_0036.jpg" imageHeight="1329" imageWidth="982">
+    <TextRegion id="r_b-B01S1" custom="structure {type:MainZone;}">
+      <Coords points="134,179 720,175 717,1091 153,1100 134,179"/>
+      <TextLine id="l_b-A03D1">
+        <Coords points=""/>
+        <Baseline points="148,200 709,198"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-A03D2">
+        <Coords points=""/>
+        <Baseline points="153,244 712,244"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-A03D3">
+        <Coords points=""/>
+        <Baseline points="155,292 710,287"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-A03D4">
+        <Coords points=""/>
+        <Baseline points="151,338 713,335"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-A03D5">
+        <Coords points=""/>
+        <Baseline points="157,384 710,379"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-A03D6">
+        <Coords points=""/>
+        <Baseline points="158,429 711,427"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-A03D7">
+        <Coords points=""/>
+        <Baseline points="154,477 711,470"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-A03D8">
+        <Coords points=""/>
+        <Baseline points="150,521 716,521"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-A03D9">
+        <Coords points=""/>
+        <Baseline points="152,571 713,565"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-A03D10">
+        <Coords points=""/>
+        <Baseline points="152,618 716,610"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-A03D11">
+        <Coords points=""/>
+        <Baseline points="153,662 711,658"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-A03D12">
+        <Coords points=""/>
+        <Baseline points="157,709 710,701"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-A03D13">
+        <Coords points=""/>
+        <Baseline points="151,754 710,750"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-A03D14">
+        <Coords points=""/>
+        <Baseline points="152,802 713,795"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-A03D15">
+        <Coords points=""/>
+        <Baseline points="156,849 707,843"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-A03D16">
+        <Coords points=""/>
+        <Baseline points="160,894 379,897 713,893"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-A03D17">
+        <Coords points=""/>
+        <Baseline points="158,944 706,941"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-A03D18">
+        <Coords points=""/>
+        <Baseline points="156,992 707,984"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-A03D19">
+        <Coords points=""/>
+        <Baseline points="149,1038 711,1027"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-A03D20">
+        <Coords points=""/>
+        <Baseline points="157,1081 710,1074"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r_b-B01S2" custom="structure {type:MarginTextZone:catchword;}">
+      <Coords points="221,1151 300,1108 314,1134 242,1174 221,1151"/>
+      <TextLine id="l_b-A03D21">
+        <Coords points=""/>
+        <Baseline points="230,1163 310,1127"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode></Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r_b-B01S3" custom="structure {type:MarginTextZone;}">
+      <Coords points="732,725 890,726 896,792 861,873 792,876 733,805 732,725"/>
+      <TextLine id="l_b-A03D22">
+        <Coords points=""/>
+        <Baseline points="738,747 880,752"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-A03D23">
+        <Coords points=""/>
+        <Baseline points="738,783 879,784"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-A03D24">
+        <Coords points=""/>
+        <Baseline points="750,819 869,821"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-A03D25">
+        <Coords points=""/>
+        <Baseline points="783,852 858,853"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>
+
+
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>
