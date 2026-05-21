@@ -185,6 +185,7 @@
       </TextLine>
       <TextEquiv>
         <Unicode></Unicode>
+      </TextEquiv>
     </TextRegion>
     <TextRegion id="r_b-B01S2" custom="structure {type:MarginTextZone:catchword;}">
       <Coords points="378,2524 561,2309 496,2271 307,2442 378,2524"/>
