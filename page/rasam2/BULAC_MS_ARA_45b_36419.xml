@@ -193,6 +193,7 @@
     <TextRegion id="r_b-B01S3" custom="structure {type:MarginTextZone;}">
       <Coords points="551,195 529,103 310,171 336,225 397,227 551,195"/>
       <TextLine id="l_b-A03D26">
+      </TextLine>
     </TextRegion>
   </Page>
 </PcGts>

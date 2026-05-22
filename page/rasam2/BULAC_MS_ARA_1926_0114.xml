@@ -98,7 +98,7 @@
       <Coords points="115,1000 167,972 187,1011 141,1040 115,1000"/>
       <TextLine id="l_b-A03D11">
         <Coords points="132,1020 126,1007 135,1002 144,985 153,980 165,982 177,1008 162,1017 158,1025 138,1033"/>
-      </TextEquiv>
+      </TextLine>
     </TextRegion>
   </Page>
 </PcGts>
