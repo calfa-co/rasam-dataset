@@ -1,6 +1,6 @@
 [![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/calfa-ai)
 
-> **[May 22, 2026]**: The official version of our dataset (line-level) is now live and available for download directly on Hugging Face!
+> **[May 22, 2026]**: The official version of our dataset is now also available at the line-level for download directly on Hugging Face!
 
 # RASAM dataset
 An Open Dataset for the Recognition and Analysis of Scripts in Arabic Maghrebi
